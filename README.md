@@ -6,9 +6,9 @@ Run a subprocess with administrative privileges, prompting the user with a graph
 - `OS X`, uses bundled applet (inspired by  [Joran Dirk Greef](https://github.com/jorangreef))
 - `Linux`, uses system pkexec or gksudo (system or bundled).
 
-<img height="150px" src="./src/assets/win32.png">
-<img height="150px" src="./src/assets/osx.png">
-<img height="150px" src="./src/assets/linux.png">
+<img height="150px" src="./assets/win32.png">
+<img height="150px" src="./assets/osx.png">
+<img height="150px" src="./assets/linux.png">
 
 - `Linux`, we try to use system pkexec, gksudo or kdesudo, if it not found then use bundled gksu.
 
