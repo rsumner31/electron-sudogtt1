@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:automation-stack/sudo-dialog.git"
+    "url": "git@github.com:automation-stack/electron-sudo.git"
   },
   "keywords": [
     "sudo",
@@ -20,8 +20,8 @@
   "contributor": ["Joran Dirk Gree"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/automation-stack/sudo-dialog/issues"
+    "url": "https://github.com/automation-stack/electron-sudo/issues"
   },
-  "homepage": "https://github.com/automation-stack/sudo-dialog#readme",
+  "homepage": "https://github.com/automation-stack/electron-sudo#readme",
   "scripts": {}
 }
