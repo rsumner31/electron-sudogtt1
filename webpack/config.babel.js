@@ -33,9 +33,7 @@ export default {
                 exclude: /node_modules/,
                 loader: 'babel',
                 query: {
-                    cacheDirectory: true,
-                    plugins: ['transform-runtime'],
-                    presets: ['es2015', 'stage-0']
+                    cacheDirectory: true
                 }
             },
             {
