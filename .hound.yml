@@ -1,0 +1,14 @@
+fail_on_violations: true
+
+stylelint:
+  config_file: build/.stylelintrc
+
+jshint:
+  enabled: false
+
+eslint:
+  config_file: js/.eslintrc.json
+  ignore_file: .houndignore
+
+ruby:
+  enabled: false
