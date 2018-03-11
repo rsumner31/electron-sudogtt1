@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 cf9c009a96eca3bcb936223397944692f7c60b85 unknown <unknown> 1520260458 -0600	clone: from https://github.com/deepika087/Git-Delete-Remote-Branches-and-Tags
+cf9c009a96eca3bcb936223397944692f7c60b85 39569b1e59606c9b55f2c165b3b5fb85dc088e87 Robert Sumner Jr <rsumner31@gmail.com> 1520260501 -0600	commit: Adding script to delete remote branches and tag using regular expression
+39569b1e59606c9b55f2c165b3b5fb85dc088e87 1465b83a52705206857ba7075ef69e7cb56434e2 Robert Sumner Jr <rsumner31@gmail.com> 1520260556 -0600	commit: Update README.md

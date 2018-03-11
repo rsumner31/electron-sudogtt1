@@ -1,0 +1,12 @@
+[core]
+	bare = false
+	repositoryformatversion = 0
+	filemode = true
+	precomposeunicode = true
+	logallrefupdates = true
+[remote "origin"]
+[branch "master"]
+[remote "Git-Delete-Remote-Branches-and-Tags"]
+[user]
+	name = Robert Sumner Jr.
+	email = rsumner31@gmail.com
